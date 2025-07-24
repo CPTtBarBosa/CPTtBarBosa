@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  skills
 - 🌱 I’m currently learning DSA and full stack development learning frontend and backend 
 - 👯 I’m looking to collaborate on people who are in continous learning and building great things.
-- 🤔 I’m looking for help with who are experience and hand on grip on skills.
+- 🤔 I’m looking for help with who are more experience than me and hand on grip on skills.
 - 💬 Ask me about growth and ideas
 - 📫 How to reach me: srupam642@gmail.com
 - 😄 Pronouns: HE/HIM
