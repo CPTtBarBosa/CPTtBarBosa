@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 
 
-  <p align="center">
-  <img src="your-banner-image-url.png" alt="Banner">
+ >
 </p>
 
 <h1 align="center">Hi 👋, I'm RUPAM</h1>
