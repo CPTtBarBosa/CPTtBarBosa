@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h3 align="center">A  backend developer from India building resilient systems.</h3>
 
 - 🔭 I’m currently working on  skills
-- 🌱 I’m currently learning DSA and full stack development learning frontend and backend 
+- 🌱 I’m currently learning DSA and  frontend and backend 
 - 👯 I’m looking to collaborate on people who are in continous learning and building great things.
 - 🤔 I’m looking for help with who are more experience than me and hand on grip on skills.
 - 💬 Ask me about growth and ideas
@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://html.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
-</p>
+
 
