@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about growth and ideas
 - 📫 How to reach me: srupam642@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: "A HUMAN CAN ACHIEVE ANYTHING IF HE HAVE HUNGER AND OBBESSION"
+- ⚡ Fun fact: "A HUMAN CAN ACHIEVE ANYTHING IF HE HAVE HUNGER AND OBSESSION"
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
