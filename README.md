@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
- - 🔭 I’m currently working on  skills<br>- 🌱 I’m currently learning DSA and  frontend and backend <br>- 👯 I’m looking to collaborate on people who are in continous learning and building great things.<br>- 🤔 I’m looking for help with who are more experience than me and hand on grip on skills.<br>- 💬 Ask me about growth and ideas<br>- 📫 How to reach me: srupam642@gmail.com<br>- 😄 Pronouns: HE/HIM<br>- ⚡ Fun fact: "A HUMAN CAN ACHIEVE ANYTHING IF HE HAVE HUNGER AND OBSESSION"<br>
+ - 🔭 I’m currently working on  skills<br>- 🌱 I’m currently learning DSA  ,frontend and backend and understanding how system works <br>- 👯 I’m looking to collaborate on people who are in continous learning and building great things.<br>- 🤔 I’m looking for help with who are more experience than me and hand on grip on skills.<br>- 💬 Ask me about growth and ideas<br>- 📫 How to reach me: srupam642@gmail.com<br>- 😄 Pronouns: HE/HIM<br>- ⚡ Fun fact: "A HUMAN CAN ACHIEVE ANYTHING IF HE HAVE HUNGER AND OBSESSION"<br>
 
 
 ## 🌐 Socials:
