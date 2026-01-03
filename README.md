@@ -2,12 +2,12 @@
 
 
 
-https://guns.lol/cptrups
+
 
  >
 </p>
 
-<h1 align="center">Hi 👋, I'm RUPAM</h1>
+<h1 align="center">Hi 👋, I'm RUPAM    https://guns.lol/cptrups </h1>
 
 
 # 💫 About Me:
